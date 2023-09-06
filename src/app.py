@@ -262,7 +262,7 @@ def detail_d_intervention(data, envoyer_l_email):
     msg['Subject'] = "Rapport D'intervention"
     msg['From'] = EMAIL_ADDRESS
 
-    msg['To'] = 'intervention@altair-securite.fr,exploitation@pgs-securite.fr,ymekhtoub@gmail.com'
+    msg['To'] = 'interventions@altair-securite.fr,exploitation@pgs-securite.fr,guerroucheaziz@gmail.com,dizaybouthkem@gmail.com'
     msg.set_content(
         email_template(
             data["Agence"],
