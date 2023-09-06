@@ -1,0 +1,33 @@
+input:invalid {
+    outline: none !important;
+}
+
+.form_div{
+    padding: 15px 30px;
+}
+
+.rapport_key{
+    min-width: 160px;
+    font-family: -apple-system,Nunito,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+
+    min-width: none;
+
+}
+.key_value_group{
+  
+    padding: 10px 20px; background-color: rgb(241, 241, 241); margin: 10px; margin-top: 20px; border-radius: 10px;
+
+}
+
+.text_area_field{
+ 
+    padding-top: 15px; padding: 10px; background-color: rgb(241, 241, 241); margin: 10px; border-radius: 10px;
+
+
+}
+
+.rapport_value{
+    font-size: 13px;
+}

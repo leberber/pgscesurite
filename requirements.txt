@@ -1,0 +1,7 @@
+dash==2.13.0
+dash_iconify==0.1.2
+dash_mantine_components==0.10.2
+gunicorn
+pandas
+dash-tools
+
